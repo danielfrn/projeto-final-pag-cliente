@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+}
+.hahaha{    
+    background-color: #240046;
+}
+.txtmeio{
+    background-color: #240046;
+    color: white;
+    font-size: 45px;
+    justify-content: center;
+    display: flex;
+}
+footer{
+    height: 40px;
+    background-color: #240046;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 60px;
+    font-size: 20px;
+    width: 100%;
+}
+.linkbox{
+    list-style-type: none;
+    text-decoration: none;
+}
+@media screen and (max-width:540px){
+    #imgmeio{
+        display: none;
+    }
+}
+#login{
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+}
+#login h2{
+    text-align: center;
+}
+#login input[type="email"],
+#login input[type="password"]{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+#login input[type="submit"]{
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.login{
+    height: 400px;
+}
+.sla{
+    padding: 100px;
+}
+.crie{
+    
+}
