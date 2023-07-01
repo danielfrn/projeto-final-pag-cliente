@@ -61,5 +61,7 @@ footer{
     padding: 100px;
 }
 .crie{
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
